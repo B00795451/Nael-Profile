@@ -1,0 +1,100 @@
+body {
+background-color: navajowhite;
+  background-image: url(florida_beach_x1.jpg);
+position: static;
+background-size: cover;
+}
+
+
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+font-size: 30px;
+line height: 1.6;
+letter-spacing: 5px;
+
+color: darkslateblue;
+
+font-family: Copperplate, serif;
+}
+
+
+h2 {
+
+text-align: center;
+  font-family: Courier,serif;
+ color: royalblue;
+font-size: 20px;
+line height: 1.4;
+letter-spacing: 4px;
+font-weight: 500;
+}
+p {
+   text-align: center;
+   color: floralwhite;
+font-family: "Gill Sans",sans-serif;
+font-size: 15px;
+line height: 1.2;
+letter-spacing: 2px;
+font-weight: 350;
+}
+
+
+ul {
+text-align:  center;
+  font-size: 45px
+}
+
+#PP {
+border-radius: 75%;
+
+    border-style: outset;
+}
+
+
+#link {
+color: deepskyblue;
+text-decoration: none;
+font-family: copperplate, serif
+
+}
+
+#link:hover{
+  color: darkcyan;
+}
+
+ a {
+color: darkslateblue;
+list-style-position: inside;
+
+
+ }
+
+
+a:hover {
+  color: darkcyan;
+}
+
+ul {
+list-style: none;
+
+}
+
+#Portal{
+border-style: ridge;
+border-width: thick;
+border-radius: 100px;
+border-color: darkslateblue;
+border-lenght: 250px;
+height: 25px;
+font-family: Copperplate, sans-serif;
+font-size: 25px;
+font-weight: lighter;
+text-decoration: none;
+text-decoration: none;
+margin: 50px;
+padding: 10px;
+}
+
+
